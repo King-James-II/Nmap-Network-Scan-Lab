@@ -1,6 +1,6 @@
-### Nmap Network Scan Lab
+## Nmap Network Scan Lab
 
-## Tasks Completed
+### Tasks Completed
 - Set up lab environment: verified NMap/ZenMap installation.
 - Launched ZenMap and entered target information.
 -  Selected scan profile and initiated network scan.
